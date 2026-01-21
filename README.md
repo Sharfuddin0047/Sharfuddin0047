@@ -89,7 +89,7 @@ Strong believer in **"Automate Everything"** and **shift-left security (DevSecOp
 
 ---
 
-## 🐍 Contribution Snake (Animated)
+## 🐍 Contribution Snake 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
