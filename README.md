@@ -74,9 +74,9 @@ Strong believer in **"Automate Everything"** and **shift-left security (DevSecOp
 
 | 🚀 Project | ⚙️ Tech Stack | 🔗 Repository |
 | :--- | :--- | :--- |
-| **End-to-End DevSecOps CI/CD Pipeline** | Jenkins · AWS · Docker · Trivy · SonarQube | [View Repo]([https://github.com/Sharfuddin0047](https://github.com/Sharfuddin0047/learn-jenkins-app)) |
-| **ML-Based Network Intrusion Detection** | Python · Scikit-Learn · PCAP · Cloud | [View Repo]([https://github.com/Sharfuddin0047](https://github.com/Sharfuddin0047/Ev_demand_and_Charging_prediction/blob/main/EV_Adoption_Forecasting.ipynb)) |
-| **Scalable MERN Deployment on Kubernetes** | Docker · Kubernetes · Helm · AWS | [View Repo]([https://github.com/Sharfuddin0047](https://github.com/Sharfuddin0047/full-stack_chatApp)) |
+| **End-to-End DevSecOps CI/CD Pipeline** | Jenkins · AWS · Docker · Trivy · SonarQube | [View Repo](https://github.com/Sharfuddin0047/learn-jenkins-app) |
+| **ML-Based Network Intrusion Detection** | Python · Scikit-Learn · PCAP · Cloud | [View Repo](https://github.com/Sharfuddin0047/Ev_demand_and_Charging_prediction/blob/main/EV_Adoption_Forecasting.ipynb) |
+| **Scalable MERN Deployment on Kubernetes** | Docker · Kubernetes · Helm · AWS | [View Repo](https://github.com/Sharfuddin0047/full-stack_chatApp) |
 
 ---
 
