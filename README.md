@@ -92,7 +92,7 @@ Strong believer in **"Automate Everything"** and **shift-left security (DevSecOp
 ## 🐍 Contribution Snake 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sharfuddin0047/<your-repo>/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Sharfuddin0047/Sharfuddin0047/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
