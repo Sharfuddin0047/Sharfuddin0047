@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Aspiring+DevOps+%26+Cloud+Engineer;Hands-on+with+AWS+%7C+Docker+%7C+Kubernetes;Learning+CI%2FCD+Automation+%26+DevSecOps;Building+Real-World+Cloud+Projects" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=0E75B6&center=true&vCenter=true&width=850&lines=Software+Engineer+with+DevOps+Skills;Building+Scalable+Applications+%26+Automated+Pipelines;Hands-on+with+AWS+%7C+Docker+%7C+Kubernetes;Passionate+About+Cloud-Native+Development" />
 
-# ☁️ Cloud & DevOps Engineering Dashboard
+# 🚀 Software Engineering Dashboard
 ### **SHARFUDDIN ALI**
-**Final Year CSE | DevOps • Cloud • DevSecOps Engineer**
+**Final Year CSE | Software Engineer • DevOps Practitioner • Cloud Enthusiast**
 
-*Designing scalable, automated, and secure cloud-native systems*
+*Engineering reliable applications while automating infrastructure*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sharfuddin-ali)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Sharfuddin0047)
@@ -20,25 +20,29 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🚀 Profile Summary
+## 👨‍💻 Profile Summary
 
-DevOps & Cloud Engineering enthusiast with **hands-on experience in CI/CD automation, cloud infrastructure, containerization, and security-first pipelines**.  
-Strong believer in **"Automate Everything"** and **shift-left security (DevSecOps)**.
+Aspiring **Software Engineer** with strong foundations in programming, data structures, and system design, complemented by **hands-on experience in DevOps practices**.
+
+Skilled at building applications and supporting them with **CI/CD pipelines, containerized deployments, and cloud infrastructure**.
+
+I enjoy bridging the gap between **development and operations** to deliver scalable, production-ready systems.
 
 ### 🎯 Current Focus
-- Kubernetes (EKS) & GitOps workflows  
-- AWS Cloud Architecture & Cost Optimization  
-- DevSecOps (SAST, DAST, Image Scanning)  
-- Observability with Prometheus & Grafana  
+- Data Structures & Problem Solving (Java)  
+- Backend Development & APIs  
+- CI/CD Pipeline Engineering  
+- Docker & Kubernetes Deployments  
+- AWS Cloud Fundamentals  
 
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharfuddin0047&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sharfuddin0047&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharfuddin0047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharfuddin0047&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
 
 </td>
 </tr>
@@ -46,54 +50,42 @@ Strong believer in **"Automate Everything"** and **shift-left security (DevSecOp
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technical Skills
 
-### ☁️ Cloud & Containerization (Hands-on)
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
-![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?style=for-the-badge&logo=terraform)
-![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
-
-### 🔁 CI/CD & Automation (Learning by Building)
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-black?style=for-the-badge&logo=githubactions)
-![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible)
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?style=for-the-badge&logo=prometheus)
-
-### 🔐 Programming & Core Foundations
+### 💻 Software Engineering
 ![Java](https://img.shields.io/badge/Java-Backend-red?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-Scripting-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-Programming-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-Frontend-blue?style=for-the-badge&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
+![SQL](https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge&logo=postgresql)
+
+### ⚙️ DevOps & Cloud (Hands-on)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-Containers-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?style=for-the-badge&logo=kubernetes)
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins)
+![Linux](https://img.shields.io/badge/Linux-OS-black?style=for-the-badge&logo=linux)
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange?style=for-the-badge&logo=git)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-blue?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## 📂 Featured DevOps & Cloud Projects
+## 📂 Featured Projects
 
-| 🚀 Project | ⚙️ Tech Stack | 🔗 Repository |
+| 🚀 Project | ⚙️ Highlights | 🔗 Repository |
 | :--- | :--- | :--- |
-| **End-to-End DevSecOps CI/CD Pipeline** | Jenkins · AWS · Docker · Trivy · SonarQube | [View Repo](https://github.com/Sharfuddin0047/learn-jenkins-app) |
-| **ML-Based Network Intrusion Detection** | Python · Scikit-Learn · PCAP · Cloud | [View Repo](https://github.com/Sharfuddin0047/Ev_demand_and_Charging_prediction/blob/main/EV_Adoption_Forecasting.ipynb) |
-| **Scalable MERN Deployment on Kubernetes** | Docker · Kubernetes · Helm · AWS | [View Repo](https://github.com/Sharfuddin0047/full-stack_chatApp) |
+| **DevSecOps CI/CD Pipeline** | Automated build, security scanning, Docker deployment on AWS | [View Repo](https://github.com/Sharfuddin0047/learn-jenkins-app) |
+| **Kubernetes-Based MERN Deployment** | Containerized full-stack app with scalable orchestration | [View Repo](https://github.com/Sharfuddin0047/full-stack_chatApp) |
+| **ML Network Intrusion Detection** | Built ML model with cloud-backed experimentation | [View Repo](https://github.com/Sharfuddin0047/Ev_demand_and_Charging_prediction/blob/main/EV_Adoption_Forecasting.ipynb) |
+| **Data Structures & Algorithms** | Solved 250+ problems covering Arrays, Strings, Linked Lists, Trees, and Pattern-based questions to build strong problem-solving and coding fundamentals | [View Profile](https://github.com/Sharfuddin0047/dsaInJAVA) |
+
 
 ---
 
-## 📊 GitHub Activity & Contributions
+## 📊 GitHub Activity
 
-## 📈 Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharfuddin0047&theme=tokyo-night&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sharfuddin0047&theme=tokyo-night&hide_border=true" />
 </div>
-
----
-
-## 🐍 Contribution Snake 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
 
 ---
 
@@ -103,6 +95,6 @@ Strong believer in **"Automate Everything"** and **shift-left security (DevSecOp
 
 <br/>
 
-<sub>🚀 Built with passion for Automation, Cloud & Continuous Improvement</sub>
+<sub>💡 "First, solve the problem. Then, automate it."</sub>
 
 </div>
