@@ -38,11 +38,11 @@ I enjoy bridging the gap between **development and operations** to deliver scala
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sharfuddin0047&show_icons=true&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Sharfuddin0047&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Stats" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharfuddin0047&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Sharfuddin0047&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages" />
 
 </td>
 </tr>
