@@ -73,7 +73,7 @@ I enjoy bridging the gap between **development and operations** to deliver scala
 
 | 🚀 Project | ⚙️ Highlights | 🔗 Repository |
 | :--- | :--- | :--- |
-| **DevSecOps CI/CD Pipeline** | Automated build, security scanning, Docker deployment on AWS | [View Repo](https://github.com/Sharfuddin0047/learn-jenkins-app) |
+| **DevSecOps CI/CD Pipeline** | Automated build, security scanning, Docker deployment on AWS | [View Repo](https://github.com/Sharfuddin0047/react-crash-course) |
 | **Kubernetes-Based MERN Deployment** | Containerized full-stack app with scalable orchestration | [View Repo](https://github.com/Sharfuddin0047/full-stack_chatApp) |
 | **ML Network Intrusion Detection** | Built ML model with cloud-backed experimentation | [View Repo](https://github.com/Sharfuddin0047/Ev_demand_and_Charging_prediction/blob/main/EV_Adoption_Forecasting.ipynb) |
 | **Data Structures & Algorithms** | Solved 250+ problems covering Arrays, Strings, Linked Lists, Trees, and Pattern-based questions to build strong problem-solving and coding fundamentals | [View Profile](https://github.com/Sharfuddin0047/dsaInJAVA) |
